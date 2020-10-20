@@ -1,4 +1,4 @@
-# fintech2020
+# fintech2020-2021
 ***
 ### 引用的網址
 + 我如何使用 Django + Vue.js 快速构建项目
@@ -15,8 +15,17 @@
 ***
 ### 專題方向
 
+**專題概述**:Django+vue+metaheuristic
+
+1. Django+vue
+2. Django model 
+3. sqlite 接 Django
+4. sqlite to json
+5. .....
 ***
 ### 進度更新
+2020/10/21 
+__資料抓取完畢/django建立/vue初版完成__
 
 
->>>>>>> Stashed changes
+
